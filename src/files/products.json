@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Iphone 14",
+        "description": "iPhone 14 Pro Max",
+        "price": 1100,
+        "code": "PER1005",
+        "status": true,
+        "thumbnail": "https://mac-center.com.pe/products/iphone-14-pro-max",
+        "id": 1
+      },
+      {
+        "title": "iPhone 12",
+        "description": "iPhone 12 min",
+        "price": 850,
+        "code": "PER1022",
+        "status": true,
+        "thumbnail": "https://mac-center.com.pe/products/iphone-12-mini",
+        "id": 2
+      }
+]
